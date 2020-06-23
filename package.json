@@ -1,0 +1,26 @@
+{
+  "name": "greeter_client",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/117sparta/grpc-demo.git"
+  },
+  "author": "jerry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/117sparta/grpc-demo/issues"
+  },
+  "homepage": "https://github.com/117sparta/grpc-demo#readme",
+  "devDependencies": {
+    "grpc-tools": "^1.9.0",
+    "jerry-ts-protoc-gen": "^0.0.2"
+  },
+  "dependencies": {
+    "@grpc/grpc-js": "^1.0.5"
+  }
+}
